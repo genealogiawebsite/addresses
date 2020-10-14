@@ -1,21 +1,21 @@
 {
-    "name": "laravel-enso/addresses",
+    "name": "genealogiawebsite/addresses",
     "description": "Addresses Manager for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "addresses",
         "laravel"
     ],
     "type": "library",
     "require": {
-        "laravel-enso/core": "^6.0",
-        "laravel-enso/countries": "^2.0",
-        "laravel-enso/enums": "^2.0",
-        "laravel-enso/forms": "^4.0",
-        "laravel-enso/helpers": "^2.0",
-        "laravel-enso/migrator": "^2.0",
-        "laravel-enso/rememberable": "^3.0",
-        "laravel-enso/select": "^4.0"
+        "genealogiawebsite/core": "^6.0",
+        "genealogiawebsite/countries": "^2.0",
+        "genealogiawebsite/enums": "^2.0",
+        "genealogiawebsite/forms": "^4.0",
+        "genealogiawebsite/helpers": "^2.0",
+        "genealogiawebsite/migrator": "^2.0",
+        "genealogiawebsite/rememberable": "^3.0",
+        "genealogiawebsite/select": "^4.0"
     },
     "license": "MIT",
     "authors": [{
@@ -26,7 +26,7 @@
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         }
     ],
